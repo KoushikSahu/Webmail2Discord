@@ -1,4 +1,4 @@
-# Discord bot that forwards your zimbra webmail to your discord page
+# Discord bot that forwards your zimbra webmail to your discord server
 __(For National Institute of Technology, Rourkela students only!)__
 
 ## How to use:
