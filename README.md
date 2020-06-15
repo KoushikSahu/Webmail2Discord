@@ -1,7 +1,6 @@
 # Discord bot that forwards your zimbra webmail to your discord server
 __(For National Institute of Technology, Rourkela students only!)__
-
-__Version__ ![](https://img.shields.io/badge/webmail2discord-1.0.0-brightgreen.svg )
+![](https://img.shields.io/badge/webmail2discord-1.0.0-brightgreen.svg )
 
 ## How to use:
 - Clone the repository
