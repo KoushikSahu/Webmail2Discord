@@ -1,0 +1,2 @@
+zauthtoken = ""
+webhook = ""
